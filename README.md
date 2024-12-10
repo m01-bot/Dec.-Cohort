@@ -1,6 +1,6 @@
 # Python Learning Guide
 
-Welcome to the Python Learning Guide! This README is designed to provide an overview and resources for anyone looking to start learning Python, whether you're a beginner or looking to strengthen your skills.
+Bienvenido to the Python Learning Guide! This README is designed to provide an overview and resources for anyone looking to start learning Python, whether you're a beginner or looking to strengthen your skills.
 
 ## Table of Contents
 
